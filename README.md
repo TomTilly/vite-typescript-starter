@@ -8,7 +8,7 @@ Basic starter for browser based Typescript projects. Includes ESLint + Prettier.
 2. Run `npx degit TomTilly/vite-typescript-starter#main my-project`
 3. Run `cd my-project`
 4. Run `npm install`
-5. (Optional) Remove `.vscode/settings.json` if you don't want my rules to override yours. Note that these settings, when combined with the recommended VS Code extensions, will provide integrated linting and formatting.
+5. (Optional) Remove `.vscode/settings.json` if you don't want my settings to override yours. Note that my settings, when combined with the recommended VS Code extensions, will provide integrated linting and formatting.
 
 ## Resources
 
